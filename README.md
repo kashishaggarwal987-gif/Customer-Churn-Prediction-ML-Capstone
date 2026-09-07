@@ -223,6 +223,20 @@ Data Collection
 
 ---
 
+---
+
+## 🔗 Connect With Me
+
+**Portfolio:** [Kanishka Agarwal](https://kanishka-agarwal-data-analyst-portfolio.ai.studio)
+
+**LinkedIn:** [Kanishka Agarwal](https://www.linkedin.com/in/kanishka-agarwal-485499333/)
+
+**GitHub:** [kashishaggarwal987-gif](https://github.com/kashishaggarwal987-gif)
+
+**Email:** [kashishaggarwal987@gmail.com](mailto:kashishaggarwal987@gmail.com)
+
+---
+
 
 ## 👩‍💻 Author
 
