@@ -223,23 +223,33 @@ Data Collection
 
 ---
 
----
-
-## 🔗 Connect With Me
-
-**Portfolio:** [Kanishka Agarwal](https://kanishka-agarwal-data-analyst-portfolio.ai.studio)
-
-**LinkedIn:** [Kanishka Agarwal](https://www.linkedin.com/in/kanishka-agarwal-485499333/)
-
-**GitHub:** [kashishaggarwal987-gif](https://github.com/kashishaggarwal987-gif)
-
-**Email:** [kashishaggarwal987@gmail.com](mailto:kashishaggarwal987@gmail.com)
-
----
-
 
 ## 👩‍💻 Author
 
 **Kanishka Agarwal**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel | Tableau | Machine Learning
+
+---
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://kanishka-agarwal-data-analyst-portfolio.ai.studio"><b>Portfolio</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/kanishka-agarwal-485499333/"><b>LinkedIn</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/kashishaggarwal987-gif"><b>GitHub</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:kashishaggarwal987@gmail.com"><b>Email</b></a>
+</p>
+
+<p align="center">
+  <i>Turning data into meaningful insights and better business decisions.</i>
+</p>
+
+---
+---
+---
